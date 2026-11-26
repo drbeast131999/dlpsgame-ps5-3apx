@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbeast131999.github.io/dlpsgame-ps5-3apx/sitemap.xml
